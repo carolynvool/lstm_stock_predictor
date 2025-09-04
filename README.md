@@ -36,9 +36,7 @@ The project also highlights common pitfalls in financial forecasting (data leaka
 ---
 
 ## Authors
-- Anjani Bahl – B.Sc. Management and Technology – 03767337 – anjani.bahl@tum.de  
-- Carolyn Vool – B.Sc. Management and Technology – 03775411 – carolyn.vool@tum.de  
-- Stanisław Woźniak – B.Sc. Management and Technology – 03777776 – ge92taq@mytum.de  
+- Anjani Bahl, Carolyn Vool, Stanisław Woźniak
 
 ---
 
